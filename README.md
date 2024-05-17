@@ -11,7 +11,7 @@ Welcome to **Ecom UI**! This project is a sleek and modern e-commerce applicatio
 
 ## Screenshots
 
-<div style="display: flex; overflow-x: auto; padding: 250px; gap: 250px;">
+<div style="display: flex; overflow-x: auto; padding: 10px; gap: 50px;">
   <img src="https://github.com/Ketan-Verma21/Ecom-UI/assets/106913278/bf8f138f-ac6f-4077-b693-be30eed03801" alt="Home Screen" height="450" />
   <img src="https://github.com/Ketan-Verma21/Ecom-UI/assets/106913278/398f60cc-1d49-4284-8b4a-993e7eda8d01" alt="Side Drawer" height="450" />
   <img src="https://github.com/Ketan-Verma21/Ecom-UI/assets/106913278/0e1ed9e3-4727-41b7-ba58-65ea2baa9eb0" alt="Cart Screen" height="450" />
