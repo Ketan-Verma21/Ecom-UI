@@ -11,7 +11,7 @@ Welcome to **Ecom UI**! This project is a sleek and modern e-commerce applicatio
 
 ## Screenshots
 
-![Start Screen](https://github.com/Ketan-Verma21/Ecom-UI/assets/106913278/d664cddc-1cc1-4935-b88a-ba0c8d7b2a01)
+![Start Screen](https://github.com/Ketan-Verma21/Ecom-UI/assets/106913278/d664cddc-1cc1-4935-b88a-ba0c8d7b2a01 | height=400)
 ![Home Screen](https://github.com/Ketan-Verma21/Ecom-UI/assets/106913278/bf8f138f-ac6f-4077-b693-be30eed03801)
 ![Side Drawer](https://github.com/Ketan-Verma21/Ecom-UI/assets/106913278/398f60cc-1d49-4284-8b4a-993e7eda8d01)
 ![Cart Screen](https://github.com/Ketan-Verma21/Ecom-UI/assets/106913278/0e1ed9e3-4727-41b7-ba58-65ea2baa9eb0)
