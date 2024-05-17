@@ -8,12 +8,10 @@ Welcome to **Ecom UI**! This project is a sleek and modern e-commerce applicatio
 - **Search Functionality**: Quickly find your desired shoes using the search feature.
 - **Product Details**: View detailed information about each shoe, including price, sizes available, and user reviews.
 - **Shopping Cart**: Add your favorite shoes to the cart and manage your selections with ease.
-- **Wishlist**: Save products you like to your wishlist for future reference.
-- **Order History**: Track your past purchases and order statuses.
 
 ## Screenshots
 
-![Home Screen]([start](https://github.com/Ketan-Verma21/Ecom-UI/assets/106913278/d664cddc-1cc1-4935-b88a-ba0c8d7b2a01))
+![Home Screen](![start](https://github.com/Ketan-Verma21/Ecom-UI/assets/106913278/d664cddc-1cc1-4935-b88a-ba0c8d7b2a01))
 ![Product Details](path_to_screenshot/product_details.png)
 ![Shopping Cart](path_to_screenshot/shopping_cart.png)
 
