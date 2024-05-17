@@ -55,17 +55,17 @@ ecom-ui/
 |- build
 |- ios
 |- lib
+|  |- components
+|  |- images
 |  |- models
-|  |- screens
-|  |- widgets
+|  |- pages
 |  |- main.dart
-|- test
 |- pubspec.yaml
 ```
 
 - **models**: Contains data models used in the app.
-- **screens**: Includes all the screen widgets (e.g., home, product details, cart).
-- **widgets**: Contains reusable UI components.
+- **images**: Includes all the images used in the app.
+- **Components**: Contains reusable UI components.
 - **main.dart**: The entry point of the application.
 
 ## Contributing
